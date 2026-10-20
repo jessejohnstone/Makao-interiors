@@ -14,7 +14,7 @@ export default function FAQ() {
           <h2 id="faq-heading">
             Before
             <br />
-            <em>we begin.</em>
+            <em>We begin.</em>
           </h2>
 
           <p className="small-muted">
