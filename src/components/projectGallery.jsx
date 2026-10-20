@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import ProjectImage from "./ProjectImage";
+import ProjectImage from "./projectImage";
 import { projects } from "../data/business";
 
 const filters = [
